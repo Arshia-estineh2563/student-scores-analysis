@@ -71,3 +71,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 > *Created for educational and analytical purposes. Contributions and suggestions are welcome!*  
+
